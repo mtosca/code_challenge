@@ -1,4 +1,4 @@
-# try-outs
+# Code Challenge
 
 A repo to try different algorithm implementations.
 
