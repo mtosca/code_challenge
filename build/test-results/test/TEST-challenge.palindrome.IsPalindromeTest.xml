@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.palindrome.IsPalindromeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-05-14T18:59:43" hostname="MacBook-Pro-de-Maximiliano.local" time="0.003">
+  <properties/>
+  <testcase name="isPalindrome_True" classname="challenge.palindrome.IsPalindromeTest" time="0.002"/>
+  <testcase name="isPalindrome_False" classname="challenge.palindrome.IsPalindromeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
